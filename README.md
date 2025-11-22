@@ -14,6 +14,10 @@ A Python implementation of the classic **Connect Four** strategy game, featuring
 * **Heuristic Evaluation:** The AI uses a custom scoring system to evaluate non-terminal board states (e.g., controlling the center, blocking wins).
 * **Mouse Input:** Smooth player interaction via mouse movement and clicking.
 
+![Image](https://github.com/user-attachments/assets/5b57e59d-63bd-49e8-a7ab-1c7d605add62)
+
+![Image](https://github.com/user-attachments/assets/584e2c3a-f7f6-4a06-ab36-bd521a4d8415)
+
 ## 🧠 How It Works (The AI Logic)
 
 The core of this project is the AI's decision-making process, which simulates future moves to determine the optimal strategy.
